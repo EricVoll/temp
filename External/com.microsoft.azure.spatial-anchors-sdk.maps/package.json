@@ -1,0 +1,33 @@
+{
+  "name": "com.microsoft.azure.spatial-anchors-sdk.maps",
+  "displayName": "Azure Spatial Anchors SDK Maps",
+  "msftFeatureCategory": "Azure Mixed Reality Services",
+  "version": "0.0.1-preview.1",
+  "unity": "2020.3",
+  "description": "Unity SDK for Azure Spatial Anchors Maps",
+  "keywords": [
+    "microsoft",
+    "mixed",
+    "reality",
+    "augmented",
+    "xr",
+    "hololens",
+    "azure",
+    "spatial",
+    "anchors",
+    "maps"
+  ],
+  "author": "Microsoft",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure/azure-spatial-anchors-samples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Azure/azure-spatial-anchors-samples/issues"
+  },
+  "homepage": "https://github.com/Azure/azure-spatial-anchors-samples#readme",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.xr.arfoundation": "4.1.7"
+  }
+}
